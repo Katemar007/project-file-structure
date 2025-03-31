@@ -1,5 +1,4 @@
-import pytest
-from activity.addition import *
+from activity import addition
 
 def test_addition():
     # Assert
